@@ -14,8 +14,11 @@ In this dataset, which includes the website information of bombabomba.com, there
 ### Variables
 
 Impression: Ad views count
+
 Click: Indicates the number of clicks on the displayed ad.
+
 Purchase: Indicates the number of products purchased after the ads clicked.
+
 Earning: Earnings after purchased products
 
 
